@@ -1,0 +1,12 @@
+.bodyLogin, .bodyRegistrar{
+    background-color: #f1f1f1;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 1%;
+    /*Alterei o margin para porcentagem, atag tava assim: margin: 24px 0 12px 0*/
+    
+}
+.esqueceuSenha{
+    float: right;
+}
